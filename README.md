@@ -27,4 +27,4 @@
 
 # Деплой
 Осуществлён на render.com:<br>
-[https://github-users-u18z.onrender.com/](https://github-users-u18z.onrender.com/)
+https://64d66b369fe82309b12beb0c--magnificent-marzipan-eb46f9.netlify.app/
