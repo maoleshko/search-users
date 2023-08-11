@@ -1,11 +1,11 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 export const Container = styled.div`
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   gap: 20px;
-`;
+`
 
 export const SearchTerm = styled.input`
   border: 3px solid #d6ccc2;
@@ -17,11 +17,11 @@ export const SearchTerm = styled.input`
   width: 35vw;
   height: 5vh;
   margin-left: 30px;
-  
+
   &:focus {
     color: black;
   }
-`;
+`
 
 export const Button = styled.button`
   display: inline-block;
@@ -42,4 +42,4 @@ export const Button = styled.button`
     background: #f6f6f7;
     outline: 1px solid transparent;
   }
-`;
+`

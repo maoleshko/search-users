@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 export const Container = styled.div`
   min-height: 100vh;
@@ -12,7 +12,7 @@ export const Container = styled.div`
   gap: 20px;
   padding-top: 50px;
   padding-bottom: 50px;
-`;
+`
 
 export const ListBox = styled.div`
   width: 100%;
@@ -20,4 +20,4 @@ export const ListBox = styled.div`
   margin-right: 10px;
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
-`;
+`

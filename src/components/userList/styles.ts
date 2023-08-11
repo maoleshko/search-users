@@ -1,8 +1,6 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
-export const Container = styled.div`
-  
-`;
+export const Container = styled.div``
 
 export const Message = styled.div`
   font-size: 16px;
@@ -10,7 +8,7 @@ export const Message = styled.div`
   padding: 10px;
   background-color: #f7f7f7;
   border: 1px solid #ddd;
-`;
+`
 
 export const ListBox = styled.div`
   min-height: 450px;
@@ -21,14 +19,14 @@ export const ListBox = styled.div`
   margin-right: 30px;
   margin-top: 30px;
   padding-bottom: 30px;
-`;
+`
 
 export const Item = styled.div`
-text-decoration: underline;
+  text-decoration: underline;
   &:hover {
     cursor: pointer;
   }
-`;
+`
 
 export const Button = styled.button`
   display: inline-block;
@@ -49,11 +47,11 @@ export const Button = styled.button`
     background: #f6f6f7;
     outline: 1px solid transparent;
   }
-`;
+`
 
 export const ButtonBox = styled.div`
     display: flex;
    justify-content: space-around;
    padding-top: 30px;
    padding-bottom: 30px;
-}`;
+}`

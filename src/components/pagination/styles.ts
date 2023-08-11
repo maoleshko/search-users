@@ -1,11 +1,12 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 export const ButtonBox = styled.div`
-    display: flex;
-   justify-content: space-around;
-   padding-top: 30px;
-   padding-bottom: 30px;
-}`;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  align-items: center;
+}`
 
 export const Button = styled.button`
   display: inline-block;
@@ -26,4 +27,4 @@ export const Button = styled.button`
     background: #f6f6f7;
     outline: 1px solid transparent;
   }
-`;
+`
