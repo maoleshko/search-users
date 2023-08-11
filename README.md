@@ -7,7 +7,7 @@
 - [x] Просмотр карточки пользователя с подбробной информацией и ссылкой на профиль на GitHub.
 
 Данные по пользователям берутся с API GitHub:<br>
-[https://developer.github.com/v3/search/#search-users](https://developer.github.com/v3/search/#search-users)
+https://developer.github.com/v3/search/#search-users
 
 
 **Для запуска проекта выполните команды:**<br>
