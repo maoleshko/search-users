@@ -27,13 +27,13 @@ describe('Sort', () => {
     fireEvent.click(button)
 
     // Assert
-    expect(button.textContent).toBe('repositories ↑')
+    expect(button.textContent).toBe('repositories ↓')
 
     // Act
     rerender(<Sort onSort={onSortMock} />)
     fireEvent.click(button)
 
     // Assert
-    expect(button.textContent).toBe('repositories ↓')
+    expect(button.textContent).toBe('repositories ↑')
   })
 })
