@@ -26,5 +26,5 @@ https://developer.github.com/v3/search/#search-users
 `npm run test`
 
 # Деплой
-Осуществлён на render.com:<br>
+Осуществлён на netlify.com:<br>
 https://64d66b369fe82309b12beb0c--magnificent-marzipan-eb46f9.netlify.app/
